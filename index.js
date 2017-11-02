@@ -15,10 +15,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(n){
   var ret = [];
-
-  while(n++ <15){
+  do{
     ret.push("I love the Beatles!");
   }
+  while(n++ <15)
 
   return ret;
 }
