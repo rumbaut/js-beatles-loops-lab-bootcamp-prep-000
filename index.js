@@ -23,3 +23,5 @@ function iLoveTheBeatles(n){
 
   return ret;
 }
+
+console.log(iLoveTheBeatles(7).length);
